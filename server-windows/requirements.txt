@@ -1,0 +1,16 @@
+# USB监控后端依赖
+
+# Web框架
+fastapi
+uvicorn[standard]
+pydantic
+
+# Windows系统
+pywin32
+WMI
+
+# GUI框架
+PySide6
+
+# 打包工具
+PyInstaller
